@@ -6,3 +6,4 @@ This prompts several possibilities and deeper explorations for the potentials of
 - The possible existence of long-standing competitors that has solidified their positions as trusted retailers in the European region
 - Average income bracket in the Pacific region might be a market that needs to be further explored
 - In-depth analysis as to why lower-income bracket in the North American region do not own a bike may provide the solution to turn it into a profitable market, a head start in mining the new, ignored vein
+- Married individuals are more likely to purchase a bike or multiple of them
