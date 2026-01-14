@@ -1,0 +1,3 @@
+A dashboard of Bike Sales in Europe, North America, and Pacific with a simple dashboard that spotlights on the largest target market.
+The findings revealed that while families and individuals of low and average income makes up the biggest sales number, low-income families specifically in the North America region are highly unlikely to purchase the product compared vs. those of high-income, a unique behavior not seen in other regions such as the Pacific and Europe. The latter in face shows very similar buying percentage in both average and high-income brackets.
+In the Pacific region where the minimum wage is lower, the market sees higher buying percentage within low and poverty-level income bracket.
