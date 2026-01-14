@@ -3,6 +3,6 @@ The findings revealed that while families and individuals of low and average inc
 In the Pacific region where the minimum wage is lower, the market sees higher buying percentage within low and poverty-level income bracket.
 
 This prompts several possibilities and deeper explorations for the potentials of expanding market into certain regions or solving the conundrum of low sales, yet high bike ownerships:
-- The possible existence of long-standing competitors that has solidified their position as trusted retailer in the European area
+- The possible existence of long-standing competitors that has solidified their positions as trusted retailers in the European region
 - Average income bracket in the Pacific region might be a market that needs to be further explored
 - In-depth analysis as to why lower-income bracket in the North American region doesn't own a bike may provide the solution to turn it into a profitable market, a head start in mining the new, ignored vein
