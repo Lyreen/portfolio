@@ -6,13 +6,13 @@ Age bracket: =IFS(M2>59, "Pension Age", M2>44, "Elderly (45+)", M2>29, "Middle A
 
 <img width="1871" height="806" alt="image" src="https://github.com/user-attachments/assets/fb5bd9ff-dc2f-414a-ac4a-9d77ed932bde" />
 
-A dashboard of Bike Sales in Europe, North America, and Pacific with a simple dashboard that spotlights on the largest target market.
-The findings revealed that while families and individuals of low and average income make up the biggest sales number, low-income families specifically in the North America region are highly unlikely to purchase the product compared vs. those of high-income, a unique behavior not seen in other regions such as the Pacific and Europe. The latter in fact shows very similar buying percentage in both average and high-income brackets.
-In the Pacific region where the minimum wage is lower, the market sees higher buying percentage within low and poverty-level income bracket.
+A dashboard of Bike Sales in Europe, North America, and Pacific with a simple dashboard that spotlights on the largest target market. <br>
+The findings revealed that while families and individuals of low and average income make up the biggest sales number, **low-income families** specifically in the North American region are **highly unlikely to purchase the product** compared vs. those of high-income, a unique behavior not seen in other regions such as the Pacific and Europe. The latter in fact shows very similar buying percentage in both average and high-income brackets. <br>
+In the Pacific region where the minimum wage is lower, the market sees higher buying percentage within low and poverty-level income bracket. <br>
 
 This prompts several possibilities and deeper explorations for the potentials of expanding market into certain regions or solving the conundrum of low sales, yet high bike ownerships:
-- The possible existence of long-standing competitors that has solidified their positions as trusted retailers in North America
-- Adults under 30 are less likely to get a bike. Analyze this behavior, as new emerging adults and mostly job-seeking fresh grads, a bike should be a favored, cheaper means of transportation.
-- Average income bracket in the Pacific region might be a market that needs to be further explored
-- In-depth analysis as to why lower-income bracket in the North American region do not own a bike may provide the solution to turn it into a profitable market, a head start in mining the new, ignored vein
-- Men are more likely to buy bikes, especially men who are over 45+ and married, ads targeting this bracket should be increased
+- The possible existence of **long-standing competitors** that has solidified their positions as trusted retailers in North America.
+- **Adults under 30** are less likely to get a bike. Analyze this behavior, as new emerging adults and mostly job-seeking fresh grads, a bike should be a favored, cheaper means of transportation.
+- Average income bracket in the Pacific region needs to be further explored.
+- In-depth analysis as to **why lower-income bracket in the North American region do not own a bike** may provide the solution to turn it into a profitable market, a head start in mining the new, ignored vein.
+- **Men are more likely to buy bikes**, especially men who are over 45+ and married, ads targeting this bracket should be increased.
