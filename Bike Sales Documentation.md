@@ -1,6 +1,6 @@
 Data was sourced from Kaggle and was pre-cleaned. After duplicating the original file, on the working sheet, income bracket (with USD currency, under $20k is poverty, under $60k is average, $100k is high, and above $150k is very high) and age bracket (16+, 23+, 30+, 45+) were created. Brackets are created to reflect closest life changing events, such as 23+ is typical fresh grad age, $100k is a six-figure, typically comfortable income bracket, 30+ is when new families are established, etc.
 
-Income bracket: =IFS(D2>149000, "Very High", D2>99000, "High", D2>59999, "Average", D2>19999, "Low", D2>0, "Poverty") //
+Income bracket: =IFS(D2>149000, "Very High", D2>99000, "High", D2>59999, "Average", D2>19999, "Low", D2>0, "Poverty") <br>
 Age bracket: =IFS(M2>59, "Pension Age", M2>44, "Elderly (45+)", M2>29, "Middle Age (30+)", M2>22, "Adult (23+)", M2>15, "Teen/Young Adult (16+)")
 
 
