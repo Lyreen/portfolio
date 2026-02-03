@@ -24,7 +24,7 @@ Based on the data and the significantly unique climate of this time range, some 
 
 
 MySQL code: <br>
-WITH HotelRevs as
+```WITH HotelRevs as
 (
 	SELECT *
 	FROM rev_2018
@@ -117,3 +117,4 @@ FROM RevsMarketMeal
 
 SELECT *
 FROM meal_cost;
+```
