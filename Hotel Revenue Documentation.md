@@ -10,7 +10,7 @@ There are three main questions we're seeking through this data: **Is the revenue
 2. **Parking space is currently more than sufficient** and despite reservations picking back up in 2020. It may take a while until there's a need to increase parking space, which should also be done in conjunction with the increase of room capacity when social distancing and travel bans loosens.
 3. Trends:
    - **Resort Hotel** is trending upward as reservations are picking back up.
-   - More reservations are being ade from **Online TA** and less are made offline.
+   - More reservations are made from **Online TA** and less are made offline.
    - **Corporate bookings** show more repeated guests than any other types of bookings.
 
 <img width="1547" height="806" alt="image" src="https://github.com/user-attachments/assets/e21c3e97-b41b-4042-8ec4-2af417cd7333" />
