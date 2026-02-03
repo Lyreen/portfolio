@@ -2,7 +2,7 @@ Tools: MySQL, MySQL Connector, Power BI  <br>
 Scroll further down for MySQL codes.  <br>
 Data is sourced from AbsentData.com.  <br>
 
-Data for the revenue of a certain hotel brand was taken from 2019, 2019, and 2020, providing revenue and reservation information from those three years for both City Hotel and Resort Hotel. Data has been slightly pre-cleaned and then split into separate workbooks to allow work on MySQL. Through MySQL, a new CTE table was created and is connected with MySQL Connector to allow data visualization on Power BI. There's over 100k rows combine from all three years of data. <br>
+Data for the revenue of a certain hotel brand was taken from 2019, 2019, and 2020, providing revenue and reservation information from those three years for both City Hotel and Resort Hotel. Data has been slightly pre-cleaned and then split into separate workbooks to allow work on MySQL. Through MySQL, a new CTE table was created and is connected with MySQL Connector to allow data visualization on Power BI. There's over 100k rows combined from all three years of data. <br>
 
 In Power BI, data is trasformed and adjusted, particularly the date to ensure they reflect correct formatting for easy data visualization. <br>
 There are three main questions we're seeking through this data: **Is the revenue growing? Do we need to add parking spaces? And if there's any trend we should be noticing?** <br>
