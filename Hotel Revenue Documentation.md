@@ -6,7 +6,7 @@ Data for the revenue of a certain hotel brand was taken from 2019, 2019, and 202
 
 In Power BI, data is transformed and adjusted, particularly the date to ensure they reflect correct formatting for easy data visualization. <br>
 There are three main questions we're seeking through this data: **Is the revenue growing? Do we need to add parking spaces? And if there's any trend we should be noticing?** <br>
-1. **Revenue dropped significantly during Q4 of 2019** and is slowly picking back up as 2020 continues. As this is the pandemic, it's highly unlikely for sales to continue to grow back to its previous 2019 peak during Q3 anytime soon. There's a need for temporary measures to ensure hotel can maintain its current profit from declining and to weather the upcoming possible crisis.
+1. **Revenue dropped significantly during Q4 of 2019** from $2 million to nearly less than $100k which coincides with the pandemic crisis and is slowly picking back up as 2020 continues. As this is the pandemic, it's highly unlikely for sales to continue to grow back to its previous 2019 peak during Q3 anytime soon. There's a need for temporary measures to ensure hotel can maintain its current profit from declining and to weather the upcoming possible crisis.
 2. **Parking space is currently more than sufficient** and despite reservations picking back up in 2020. It may take a while until there's a need to increase parking space, which should also be done in conjunction with the increase of room capacity when social distancing and travel bans loosens.
 3. Trends:
    - **Resort Hotel** is trending upward as reservations are picking back up.
@@ -18,9 +18,10 @@ There are three main questions we're seeking through this data: **Is the revenue
 
 Based on the data and the significantly unique climate of this time range, some actions to consider:
 1. Travel ban means marketing to customers that are not allowed to leave or visit the country should be lessened.
-2. On the flip side, market to locals or countries where travel bans have loosened up. Offer discounts and other facilities to cut losses.
-3. No need for unnecessary expenditure such as increasing parking space.
-4. With Corporate and Group reservations showing the most consistent figures, increase their brand loyalty and appeal.
+3. On the flip side, market to locals or countries where travel bans have loosened up. Offer discounts and other facilities to cut losses.
+4. With average travel group being 2, focus on providing rooms for two.
+5. No need for unnecessary expenditure such as increasing parking space.
+6. With Corporate and Group reservations showing the most consistent figures, increase their brand loyalty and appeal.
 
 
 MySQL code: <br>
