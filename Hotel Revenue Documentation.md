@@ -6,7 +6,7 @@ Data for the revenue of a certain hotel brand was taken from 2019, 2019, and 202
 
 In Power BI, data is transformed and adjusted, particularly the date to ensure they reflect correct formatting for easy data visualization. <br>
 There are three main questions we're seeking through this data: **Is the revenue growing? Do we need to add parking spaces? And if there's any trend we should be noticing?** <br>
-1. **Revenue dropped significantly during Q4 of 2019** and then slowly picked back up by 2020. As this is the pandemic, it's highly unlikely for sales to continue to grow back to its previous 2019 peak during Q3. There's a need for temporary measures to ensure hotel can maintain its current profit from declining and to weather the upcoming possible crisis.
+1. **Revenue dropped significantly during Q4 of 2019** and is slowly picking back up as 2020 continues. As this is the pandemic, it's highly unlikely for sales to continue to grow back to its previous 2019 peak during Q3 anytime soon. There's a need for temporary measures to ensure hotel can maintain its current profit from declining and to weather the upcoming possible crisis.
 2. **Parking space is currently more than sufficient** and despite reservations picking back up in 2020. It may take a while until there's a need to increase parking space, which should also be done in conjunction with the increase of room capacity when social distancing and travel bans loosens.
 3. Trends:
    - **Resort Hotel** is trending upward as reservations are picking back up.
@@ -18,7 +18,7 @@ There are three main questions we're seeking through this data: **Is the revenue
 
 Based on the data and the significantly unique climate of this time range, some actions to consider:
 1. Travel ban means marketing to customers that are not allowed to leave or visit the country should be lessened.
-2. Find immediate alternatives to alleviate the upcoming possible losses, such as branching out into culinary or renting out space for medical healthcare services as hospitals are experiencing major surge of patients and no beds.
+2. On the flip side, market to locals or countries where travel bans have loosened up. Offer discounts and other facilities to cut losses.
 3. No need for unnecessary expenditure such as increasing parking space.
 4. With Corporate and Group reservations showing the most consistent figures, increase their brand loyalty and appeal.
 
